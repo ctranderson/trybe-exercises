@@ -1,0 +1,34 @@
+
+    h2 {
+        color:green
+    }
+    body {
+    background-color:rgb(197, 154, 154) ;
+
+    }
+    #second-paragraph{
+        background-color: rgb(170, 219, 170);
+        color:blue
+    }
+
+    #third-paragraph{
+        background-color: greenyellow;
+        font-style: unset;
+    }
+    #forth-paragraph{
+        background-color: rgb(35, 39, 28);
+        color: yellow;
+    }
+    .quotes{
+        background-color: rgb(55, 42, 65);
+        font-family: sans-serif;
+
+    }
+    p{
+        font-size: 12x;
+    }
+    .line_heith{
+        line-height: 30px;
+        background-color: rgb(185, 202, 165);
+        text-align:center;
+}   
