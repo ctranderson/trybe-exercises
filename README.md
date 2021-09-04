@@ -1,1 +1,1 @@
-# trybe-exercises
+# https://github.com/ctranderson/javascript
